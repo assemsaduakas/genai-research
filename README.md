@@ -3,13 +3,11 @@ Research on Generative AI applications
 
 GenAI - Generative Artificial Intelligence is a subtype of artificial intelligence which not only analyzes data, but also generates a new content such as videos, images, songs and text.
 
-ANN
+ANN - Artificial Neural Network. Computational model inspired by NNN, by human brain, and used for tasks like making predictions and learning from data.
 
-NNN
+NNN - Natural neural networks. It's about how our human brain works.
 
-SME - Subject MAtter Expert
+SME - Subject Matter Expert.
 
-AI tools
-
-AI systems
+AI tools - the famous one is chatGPT.
 
